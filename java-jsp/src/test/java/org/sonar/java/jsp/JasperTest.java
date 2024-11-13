@@ -1,4 +1,4 @@
-/*
+/*    test
  * SonarQube Java
  * Copyright (C) 2012-2024 SonarSource SA
  * mailto:info AT sonarsource DOT com
